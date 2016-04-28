@@ -9,4 +9,4 @@ DevFest Nordeste | http://devfestne.com.br | <img src="http://www.estadosecapita
 DevFest Norte | http://norte.devfest.com.br | - | A Confirmar
 DevFest São Paulo | http://sp.devfest.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-sao-paulo1-105x70.png" width=16/> São Paulo | A Confirmar
 DevFest Sudeste | - | - | A Confirmar
-DevFest Sul | http://devfestsul.com.br | - | A Confirmar
+DevFest Sul | http://devfestsul.com.br | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BandeiraFozDoIguacu.svg/125px-BandeiraFozDoIguacu.svg.png" width=16/> Foz do Iguaçu | 29 de Outubro
