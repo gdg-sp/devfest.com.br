@@ -9,6 +9,6 @@ DevFest Maranhão | - | <img src="http://www.estadosecapitaisdobrasil.com/wp-con
 DevFest Nordeste | http://devfestne.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-maceio-105x70.jpg" width=16/> Maceió | 21 e 22 de Outubro de 2016
 DevFest Norte | http://norte.devfest.com.br | - | A Confirmar
 DevFest Paraná | - | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/icone-parana.png" width=16/> Foz do Iguaçu | 29 de Outubro
-DevFest São Paulo | http://sp.devfest.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-sao-paulo1-105x70.png" width=16/> São Paulo | A Confirmar
+DevFest São Paulo | http://sp.devfest.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-sao-paulo1-105x70.png" width=16/> São Paulo | 12 de Novembro
 DevFest Sudeste | - | - | A Confirmar
 DevFest Sul | http://devfestsul.com.br | - | A Confirmar
