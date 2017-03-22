@@ -6,8 +6,8 @@ DevFests no Brasil http://devfest.com.br
 Nome               | Link    | Cidade   | Data
 ---                | ---     | ---      | ---
 DevFest Nordeste | http://devfestne.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-salvador-150x150.png" width=16/> Salvador | 21 de Outubro
-DevFest Belo Horizonte | http://devfestbh.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-belo-horizonte-105x72.png" width=16/> BH | 18 de Novembro
 DevFest Paraná | - | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/icone-parana.png" width=16/> Maringá | 11 de Novembro
+DevFest Belo Horizonte | http://devfestbh.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-belo-horizonte-105x72.png" width=16/> BH | 18 de Novembro
 DevFestXP | http://devfestxp.com | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/icone-pernambuco.png" width=16/> Recife | 9 de Dezembro
 
 ## Anteriores
