@@ -5,11 +5,12 @@ DevFests no Brasil http://devfest.com.br
 
 Nome               | Link    | Cidade   | Data
 ---                | ---     | ---      | ---
-DevFest Norte | http://www.gdgmanaus.com/devfest | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-amazonas-150x150.png" width=16/> Manaus | 07 de Outubro
+DevFest Norte | http://www.gdgmanaus.com/devfest | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-manaus-150x150.jpg" width=16/> Manaus | 07 de Outubro
 DevFest Nordeste | http://devfestne.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-salvador-150x150.png" width=16/> Salvador | 21 de Outubro
+DevFest Maceió | http://dfmcz.gdgmaceio.org/ | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-maceio-150x150.jpg" width=16/> Maceió | 23 de Setembro
 DevFest Paraná | - | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/icone-parana.png" width=16/> Maringá | 11 de Novembro
-DevFest Belo Horizonte | http://devfestbh.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-belo-horizonte-105x72.png" width=16/> BH | 18 de Novembro
-DevFestXP | http://devfestxp.com | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/icone-pernambuco.png" width=16/> Recife | 9 de Dezembro
+DevFest Belo Horizonte | http://devfestbh.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-belo-horizonte-150x150.png" width=16/> BH | 18 de Novembro
+DevFestXP | http://devfestxp.com | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-recife-150x150.png" width=16/> Recife | 9 de Dezembro
 
 ## Anteriores
 Nome               | Link    | Cidade   | Data
