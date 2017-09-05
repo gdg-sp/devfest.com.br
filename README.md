@@ -10,6 +10,7 @@ DevFest Nordeste | http://devfestne.com.br | <img src="http://www.estadosecapita
 DevFest Maceió | http://dfmcz.gdgmaceio.org/ | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-maceio-150x150.jpg" width=16/> Maceió | 23 de Setembro
 DevFest Paraná | - | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/icone-parana.png" width=16/> Maringá | 11 de Novembro
 DevFest Belo Horizonte | http://devfestbh.com.br | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-belo-horizonte-150x150.png" width=16/> BH | 18 de Novembro
+DevFest RJ | - | <img src="https://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-rio-de-janeiro-150x150.png" width=16/> RJ | 25 de Novembro
 DevFestXP | http://devfestxp.com | <img src="http://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-recife-150x150.png" width=16/> Recife | 9 de Dezembro
 
 ## Anteriores
